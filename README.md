@@ -6,7 +6,9 @@ This project is a project built using **Angular**
 
 This project is a simple menu page
 
-[LinkPage](https://foodmine-course-xi.vercel.app)
+# Important Link
+
+[FoodMine](https://foodmine-course-xi.vercel.app)
 
 ## ScreenShots
 ![Home Page](https://i.imgur.com/UzcqwKl.png)
@@ -24,7 +26,8 @@ This project is a simple menu page
 
 ### Functional requirements
 
-- [x] Java 17
+- [x] Angular
+- [x] Node Js
 - [x] IDE
 
 ## Installation
